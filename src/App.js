@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
-import AutocompleteTextField from "./AutocompleteTextField";
+import AutocompleteTextField from "./components/AutocompleteTextField";
 import { Button, FormControl, FormLabel } from "@mui/material";
 
 export default function App() {
